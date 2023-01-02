@@ -39,7 +39,7 @@ struct Apple: View {
                     .fontWeight(.bold)
                 
             })
-            .accentColor(.red)
+            .toggleStyle(SwitchToggleStyle(tint: .white))
             .padding()
         }
         .preferredColorScheme(.dark)
