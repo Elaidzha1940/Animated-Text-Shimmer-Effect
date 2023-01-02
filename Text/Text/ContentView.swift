@@ -76,7 +76,7 @@ struct TextShimmer: View {
                 Rectangle()
                     .fill(
                     
-                        LinearGradient(gradient: .init(colors: [Color.black.opacity(0.5), Color.white, Color.white]), startPoint: .top, endPoint: .bottom)
+                        LinearGradient(gradient: .init(colors: [Color.red.opacity(0.5), Color.red, Color.white]), startPoint: .top, endPoint: .bottom)
                     )
                     .rotationEffect(.init(degrees: 70))
                  //   .padding()
