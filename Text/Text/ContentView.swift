@@ -41,6 +41,7 @@ struct Apple: View {
             })
             .toggleStyle(SwitchToggleStyle(tint: .white))
             .padding()
+            .padding()
         }
         .preferredColorScheme(.dark)
     }
