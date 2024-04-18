@@ -1,0 +1,4 @@
+Animated Text Shimmer Effect.
+=========
+
+---------
